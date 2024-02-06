@@ -1,4 +1,4 @@
-# RRCAGAppBradleySchapf
+# Automotive Shop Software
 
 This software can create simple Vehicle Sale Quotes, as well as Car wash invoices. This was made in Visual Studio using C# and windows form applications.
 
